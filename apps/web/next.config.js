@@ -3,4 +3,5 @@ module.exports = {
   experimental: {
     transpilePackages: ["ui"],
   },
+  basePath: '/web',
 };
